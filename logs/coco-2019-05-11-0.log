@@ -1,0 +1,292 @@
+2019-05-11 11:29:59.473 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 2528 (started by lk in D:\code\springboot\demo)
+2019-05-11 11:29:59.476 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
+2019-05-11 11:30:02.174 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 59 ] - Started DemoApplicationTests in 2.884 seconds (JVM running for 3.7)
+2019-05-11 11:30:13.672 [ main ] - [ INFO  ] [ com.example.demo.DemoApplication : 50 ] - Starting DemoApplication on LAPTOP-VFGJQ5M3 with PID 13444 (D:\code\springboot\demo\target\classes started by lk in D:\code\springboot\demo)
+2019-05-11 11:30:13.700 [ main ] - [ INFO  ] [ com.example.demo.DemoApplication : 675 ] - No active profile set, falling back to default profiles: default
+2019-05-11 11:30:14.685 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2019-05-11 11:30:14.693 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2019-05-11 11:30:14.693 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-05-11 11:30:14.775 [ main ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2019-05-11 11:30:15.078 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2019-05-11 11:30:15.101 [ main ] - [ INFO  ] [ com.example.demo.DemoApplication : 59 ] - Started DemoApplication in 1.722 seconds (JVM running for 3.174)
+2019-05-11 11:31:40.966 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 3112 (started by lk in D:\code\springboot\demo)
+2019-05-11 11:31:40.971 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
+2019-05-11 11:31:42.764 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 59 ] - Started DemoApplicationTests in 2.07 seconds (JVM running for 3.037)
+2019-05-11 11:31:42.935 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 18 ] - info
+2019-05-11 11:31:58.266 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 12704 (started by lk in D:\code\springboot\demo)
+2019-05-11 11:31:58.273 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
+2019-05-11 11:32:00.034 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 59 ] - Started DemoApplicationTests in 2.059 seconds (JVM running for 3.015)
+2019-05-11 11:32:00.198 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 18 ] - info
+2019-05-11 11:32:08.845 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 5300 (started by lk in D:\code\springboot\demo)
+2019-05-11 11:32:08.848 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
+2019-05-11 11:32:10.484 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 59 ] - Started DemoApplicationTests in 1.817 seconds (JVM running for 2.605)
+2019-05-11 11:32:10.642 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 18 ] - info
+2019-05-11 11:34:14.603 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 1400 (started by lk in D:\code\springboot\demo)
+2019-05-11 11:34:14.608 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
+2019-05-11 11:34:16.280 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 59 ] - Started DemoApplicationTests in 1.949 seconds (JVM running for 2.93)
+2019-05-11 11:34:16.425 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 18 ] - info
+2019-05-11 11:34:52.206 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 11316 (started by lk in D:\code\springboot\demo)
+2019-05-11 11:34:52.210 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-11 11:34:52.211 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
+2019-05-11 11:34:53.872 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 59 ] - Started DemoApplicationTests in 1.929 seconds (JVM running for 2.897)
+2019-05-11 11:34:54.025 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 17 ] - debug
+2019-05-11 11:34:54.026 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 18 ] - info
+2019-05-11 11:38:30.085 [ main ] - [ INFO  ] [ com.example.demo.DemoApplication : 50 ] - Starting DemoApplication on LAPTOP-VFGJQ5M3 with PID 4972 (D:\code\springboot\demo\target\classes started by lk in D:\code\springboot\demo)
+2019-05-11 11:38:30.087 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplication : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-11 11:38:30.088 [ main ] - [ INFO  ] [ com.example.demo.DemoApplication : 675 ] - No active profile set, falling back to default profiles: default
+2019-05-11 11:38:30.893 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2019-05-11 11:38:30.901 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2019-05-11 11:38:30.901 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-05-11 11:38:30.984 [ main ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2019-05-11 11:38:31.309 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2019-05-11 11:38:31.331 [ main ] - [ INFO  ] [ com.example.demo.DemoApplication : 59 ] - Started DemoApplication in 1.494 seconds (JVM running for 2.901)
+2019-05-11 12:54:43.137 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 1200 (started by lk in D:\code\springboot\demo)
+2019-05-11 12:54:43.144 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-11 12:54:43.146 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
+2019-05-11 13:03:08.332 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 5492 (started by lk in D:\code\springboot\demo)
+2019-05-11 13:03:08.336 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-11 13:03:08.337 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
+2019-05-11 13:32:27.877 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 11988 (started by lk in D:\code\springboot\demo)
+2019-05-11 13:32:27.884 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-11 13:32:27.885 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
+2019-05-11 13:36:05.315 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 5852 (started by lk in D:\code\springboot\demo)
+2019-05-11 13:36:05.321 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-11 13:36:05.322 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
+2019-05-11 13:39:21.556 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 5232 (started by lk in D:\code\springboot\demo)
+2019-05-11 13:39:21.560 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-11 13:39:21.561 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
+2019-05-11 13:47:22.596 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 7916 (started by lk in D:\code\springboot\demo)
+2019-05-11 13:47:22.601 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-11 13:47:22.602 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
+2019-05-11 13:50:24.122 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 10428 (started by lk in D:\code\springboot\demo)
+2019-05-11 13:50:24.132 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-11 13:50:24.134 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
+2019-05-11 13:50:27.382 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 59 ] - Started DemoApplicationTests in 3.712 seconds (JVM running for 4.771)
+2019-05-11 13:50:27.620 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 23 ] - debug
+2019-05-11 13:50:27.620 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 24 ] - info
+2019-05-11 13:50:27.644 [ main ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2019-05-11 13:50:27.649 [ main ] - [ WARN  ] [ com.zaxxer.hikari.util.DriverDataSource : 68 ] - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-05-11 13:50:28.828 [ main ] - [ ERROR ] [ com.zaxxer.hikari.pool.HikariPool : 574 ] - HikariPool-1 - Exception during pool initialization.
+java.sql.SQLException: The server time zone value 'ÖÐ¹ú±ê×¼Ê±¼ä' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:76)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:835)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:455)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:240)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:199)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:136)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:369)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:198)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:467)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:541)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:157)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:115)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:78)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.openConnection(SpringManagedTransaction.java:82)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.getConnection(SpringManagedTransaction.java:68)
+	at org.apache.ibatis.executor.BaseExecutor.getConnection(BaseExecutor.java:336)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:85)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:49)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:198)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:185)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433)
+	at com.sun.proxy.$Proxy58.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:278)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:59)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:58)
+	at com.sun.proxy.$Proxy68.insert(Unknown Source)
+	at com.example.demo.DemoApplicationTests.contextLoads(DemoApplicationTests.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestExecutionCallbacks.evaluate(RunBeforeTestExecutionCallbacks.java:74)
+	at org.springframework.test.context.junit4.statements.RunAfterTestExecutionCallbacks.evaluate(RunAfterTestExecutionCallbacks.java:84)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:251)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: com.mysql.cj.exceptions.InvalidConnectionAttributeException: The server time zone value 'ÖÐ¹ú±ê×¼Ê±¼ä' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:85)
+	at com.mysql.cj.util.TimeUtil.getCanonicalTimezone(TimeUtil.java:132)
+	at com.mysql.cj.protocol.a.NativeProtocol.configureTimezone(NativeProtocol.java:2241)
+	at com.mysql.cj.protocol.a.NativeProtocol.initServerSession(NativeProtocol.java:2265)
+	at com.mysql.cj.jdbc.ConnectionImpl.initializePropsFromServer(ConnectionImpl.java:1319)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:966)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:825)
+	... 63 common frames omitted
+2019-05-11 13:52:41.064 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 8056 (started by lk in D:\code\springboot\demo)
+2019-05-11 13:52:41.067 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-11 13:52:41.068 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
+2019-05-11 13:52:43.928 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 59 ] - Started DemoApplicationTests in 3.141 seconds (JVM running for 4.979)
+2019-05-11 13:52:44.162 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 23 ] - debug
+2019-05-11 13:52:44.163 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 24 ] - info
+2019-05-11 13:52:44.187 [ main ] - [ ERROR ] [ com.zaxxer.hikari.HikariConfig : 878 ] - HikariPool-1 - jdbcUrl is required with driverClassName.
+2019-05-11 13:55:04.091 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 260 (started by lk in D:\code\springboot\demo)
+2019-05-11 13:55:04.094 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-11 13:55:04.095 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
+2019-05-11 13:55:06.828 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 59 ] - Started DemoApplicationTests in 2.99 seconds (JVM running for 4.804)
+2019-05-11 13:55:07.059 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 23 ] - debug
+2019-05-11 13:55:07.059 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 24 ] - info
+2019-05-11 13:55:07.084 [ main ] - [ ERROR ] [ com.zaxxer.hikari.HikariConfig : 882 ] - HikariPool-1 - dataSource or dataSourceClassName or jdbcUrl is required.
+2019-05-11 13:56:06.484 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 2856 (started by lk in D:\code\springboot\demo)
+2019-05-11 13:56:06.489 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-11 13:56:06.490 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
+2019-05-11 13:56:09.208 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 59 ] - Started DemoApplicationTests in 2.995 seconds (JVM running for 4.805)
+2019-05-11 13:56:09.429 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 23 ] - debug
+2019-05-11 13:56:09.429 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 24 ] - info
+2019-05-11 13:56:09.456 [ main ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 95 ] - HikariPool-1 - Starting...
+2019-05-11 13:56:10.715 [ main ] - [ ERROR ] [ com.zaxxer.hikari.pool.HikariPool : 526 ] - HikariPool-1 - Exception during pool initialization.
+java.sql.SQLException: The server time zone value 'ÖÐ¹ú±ê×¼Ê±¼ä' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:76)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:835)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:455)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:240)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:199)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:112)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:118)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:341)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:193)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:428)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:499)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:112)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:97)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:157)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:115)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:78)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.openConnection(SpringManagedTransaction.java:82)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.getConnection(SpringManagedTransaction.java:68)
+	at org.apache.ibatis.executor.BaseExecutor.getConnection(BaseExecutor.java:336)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:85)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:49)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:198)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:185)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433)
+	at com.sun.proxy.$Proxy58.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:278)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:59)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:58)
+	at com.sun.proxy.$Proxy68.insert(Unknown Source)
+	at com.example.demo.DemoApplicationTests.contextLoads(DemoApplicationTests.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestExecutionCallbacks.evaluate(RunBeforeTestExecutionCallbacks.java:74)
+	at org.springframework.test.context.junit4.statements.RunAfterTestExecutionCallbacks.evaluate(RunAfterTestExecutionCallbacks.java:84)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:251)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: com.mysql.cj.exceptions.InvalidConnectionAttributeException: The server time zone value 'ÖÐ¹ú±ê×¼Ê±¼ä' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:85)
+	at com.mysql.cj.util.TimeUtil.getCanonicalTimezone(TimeUtil.java:132)
+	at com.mysql.cj.protocol.a.NativeProtocol.configureTimezone(NativeProtocol.java:2241)
+	at com.mysql.cj.protocol.a.NativeProtocol.initServerSession(NativeProtocol.java:2265)
+	at com.mysql.cj.jdbc.ConnectionImpl.initializePropsFromServer(ConnectionImpl.java:1319)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:966)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:825)
+	... 64 common frames omitted
+2019-05-11 14:06:34.719 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 2708 (started by lk in D:\code\springboot\demo)
+2019-05-11 14:06:34.723 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-11 14:06:34.724 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
+2019-05-11 14:06:37.504 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 59 ] - Started DemoApplicationTests in 3.063 seconds (JVM running for 5.188)
+2019-05-11 14:06:37.724 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 23 ] - debug
+2019-05-11 14:06:37.725 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 24 ] - info
+2019-05-11 14:06:37.751 [ main ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 95 ] - HikariPool-1 - Starting...
+2019-05-11 14:06:38.017 [ main ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 107 ] - HikariPool-1 - Start completed.
+2019-05-11 14:06:38.023 [ main ] - [ DEBUG ] [ com.example.demo.mapper.UserMapper.insert : 159 ] - ==>  Preparing: insert into USER(LOG_NAME, PASSWD, SEX) values (?, ?, ?) 
+2019-05-11 14:06:38.056 [ main ] - [ DEBUG ] [ com.example.demo.mapper.UserMapper.insert : 159 ] - ==> Parameters: 123(String), 456(String), 1(String)
+2019-05-11 14:06:38.066 [ main ] - [ DEBUG ] [ com.example.demo.mapper.UserMapper.insert : 159 ] - <==    Updates: 1
+2019-05-11 14:06:38.074 [ Thread-2 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 347 ] - HikariPool-1 - Shutdown initiated...
+2019-05-11 14:06:38.075 [ Thread-2 ] - [ INFO  ] [ com.zaxxer.hikari.pool.HikariPool : 204 ] - HikariPool-1 - Close initiated...
+2019-05-11 14:06:38.077 [ Thread-2 ] - [ INFO  ] [ com.zaxxer.hikari.pool.HikariPool : 238 ] - HikariPool-1 - Closed.
+2019-05-11 14:06:38.078 [ Thread-2 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 349 ] - HikariPool-1 - Shutdown completed.
+2019-05-11 21:11:41.168 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 14400 (started by lk in D:\code\springboot\demo)
+2019-05-11 21:11:41.171 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-11 21:11:41.172 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
+2019-05-11 21:11:43.551 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 59 ] - Started DemoApplicationTests in 2.598 seconds (JVM running for 8.877)
+2019-05-11 21:11:43.728 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 23 ] - debug
+2019-05-11 21:11:43.728 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 24 ] - info
+2019-05-11 21:11:43.746 [ main ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 95 ] - HikariPool-1 - Starting...
+2019-05-11 21:11:43.977 [ main ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 107 ] - HikariPool-1 - Start completed.
+2019-05-11 21:11:43.986 [ main ] - [ DEBUG ] [ com.example.demo.mapper.UserMapper.insert : 159 ] - ==>  Preparing: insert into USER(LOG_NAME, PASSWD, SEX) values (?, ?, ?) 
+2019-05-11 21:11:44.017 [ main ] - [ DEBUG ] [ com.example.demo.mapper.UserMapper.insert : 159 ] - ==> Parameters: 123(String), 456(String), 1(String)
+2019-05-11 21:11:44.038 [ main ] - [ DEBUG ] [ com.example.demo.mapper.UserMapper.insert : 159 ] - <==    Updates: 1
+2019-05-11 21:11:44.048 [ Thread-2 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 347 ] - HikariPool-1 - Shutdown initiated...
+2019-05-11 21:11:44.050 [ Thread-2 ] - [ INFO  ] [ com.zaxxer.hikari.pool.HikariPool : 204 ] - HikariPool-1 - Close initiated...
+2019-05-11 21:11:44.052 [ Thread-2 ] - [ INFO  ] [ com.zaxxer.hikari.pool.HikariPool : 238 ] - HikariPool-1 - Closed.
+2019-05-11 21:11:44.053 [ Thread-2 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 349 ] - HikariPool-1 - Shutdown completed.

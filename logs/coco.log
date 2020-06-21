@@ -1,0 +1,33 @@
+2020-06-21 16:19:39.502 [ main ] - [ INFO  ] [ com.example.demo.DemoApplication : 50 ] - Starting DemoApplication on LAPTOP-VFGJQ5M3 with PID 91200 (D:\code\springboot\demo\target\classes started by lk in D:\code\springboot\demo)
+2020-06-21 16:19:39.513 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplication : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2020-06-21 16:19:39.514 [ main ] - [ INFO  ] [ com.example.demo.DemoApplication : 675 ] - No active profile set, falling back to default profiles: default
+2020-06-21 16:19:40.757 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-21 16:19:40.764 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-06-21 16:19:40.765 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-06-21 16:19:40.871 [ main ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-06-21 16:19:41.765 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-21 16:19:41.787 [ main ] - [ INFO  ] [ com.example.demo.DemoApplication : 59 ] - Started DemoApplication in 2.88 seconds (JVM running for 5.304)
+2020-06-21 16:21:41.853 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 103220 (started by lk in D:\code\springboot\demo)
+2020-06-21 16:21:41.858 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2020-06-21 16:21:41.859 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
+2020-06-21 16:21:46.524 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 59 ] - Started DemoApplicationTests in 5.015 seconds (JVM running for 6.492)
+2020-06-21 16:21:47.124 [ main ] - [ INFO  ] [ io.lettuce.core.EpollProvider : 68 ] - Starting without optional epoll library
+2020-06-21 16:21:47.126 [ main ] - [ INFO  ] [ io.lettuce.core.KqueueProvider : 70 ] - Starting without optional kqueue library
+2020-06-21 16:21:57.667 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 103248 (started by lk in D:\code\springboot\demo)
+2020-06-21 16:21:57.672 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2020-06-21 16:21:57.674 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
+2020-06-21 16:22:02.897 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 59 ] - Started DemoApplicationTests in 5.475 seconds (JVM running for 6.709)
+2020-06-21 16:22:03.395 [ main ] - [ INFO  ] [ io.lettuce.core.EpollProvider : 68 ] - Starting without optional epoll library
+2020-06-21 16:22:03.399 [ main ] - [ INFO  ] [ io.lettuce.core.KqueueProvider : 70 ] - Starting without optional kqueue library
+2020-06-21 16:23:32.638 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 92096 (started by lk in D:\code\springboot\demo)
+2020-06-21 16:23:32.642 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2020-06-21 16:23:32.643 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
+2020-06-21 16:23:36.527 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 59 ] - Started DemoApplicationTests in 4.136 seconds (JVM running for 5.326)
+2020-06-21 16:23:36.876 [ main ] - [ INFO  ] [ io.lettuce.core.EpollProvider : 68 ] - Starting without optional epoll library
+2020-06-21 16:23:36.879 [ main ] - [ INFO  ] [ io.lettuce.core.KqueueProvider : 70 ] - Starting without optional kqueue library
+2020-06-21 16:24:17.825 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 100760 (started by lk in D:\code\springboot\demo)
+2020-06-21 16:24:17.829 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2020-06-21 16:24:17.830 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
+2020-06-21 16:24:21.535 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 59 ] - Started DemoApplicationTests in 3.956 seconds (JVM running for 5.11)
+2020-06-21 16:24:21.879 [ main ] - [ INFO  ] [ io.lettuce.core.EpollProvider : 68 ] - Starting without optional epoll library
+2020-06-21 16:24:21.882 [ main ] - [ INFO  ] [ io.lettuce.core.KqueueProvider : 70 ] - Starting without optional kqueue library
