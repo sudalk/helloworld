@@ -1,5 +1,6 @@
 package com.example.demo;
 
+import com.example.demo.annotation.ScanTest;
 import com.example.demo.dao.User;
 import com.example.demo.mapper.UserMapper;
 import com.example.demo.utils.redis.RedisUtil;
@@ -11,6 +12,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
+import java.io.IOException;
+
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class DemoApplicationTests {
@@ -19,6 +22,9 @@ public class DemoApplicationTests {
 
     @Autowired
     private UserMapper userMapper;
+
+    @Autowired
+    private ScanTest scanTest;
 
     @Autowired
     private RedisUtil redisUtil;
@@ -42,7 +48,10 @@ public class DemoApplicationTests {
         System.out.println(redisUtil.get("lk"));
     }
 
-
+    @Test
+    public void scantest() throws Exception {
+        scanTest.scantest();
+    }
 
 
 
