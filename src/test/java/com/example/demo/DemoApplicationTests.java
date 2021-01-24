@@ -1,6 +1,8 @@
 package com.example.demo;
 
 import com.example.demo.annotation.ScanTest;
+import com.example.demo.config.StudentConfig;
+import com.example.demo.dao.StudentTest;
 import com.example.demo.dao.User;
 import com.example.demo.mapper.UserMapper;
 import com.example.demo.utils.redis.RedisUtil;
@@ -25,6 +27,12 @@ public class DemoApplicationTests {
 
     @Autowired
     private ScanTest scanTest;
+
+    @Autowired
+    private StudentConfig studentConfig;
+
+    @Autowired
+    private StudentTest studentTest;
 
     @Autowired
     private RedisUtil redisUtil;
@@ -53,6 +61,10 @@ public class DemoApplicationTests {
         scanTest.scantest();
     }
 
-
+    @Test
+    public void autoConfig(){
+        System.out.println(studentConfig.getId()+"----"+studentConfig.getName());
+        System.out.println(studentTest.getId());
+    }
 
 }
