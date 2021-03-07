@@ -1,24 +1,9 @@
-2021-01-24 18:36:17.907 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 17140 (started by lk in D:\code\springboot\demo)
-2021-01-24 18:36:17.916 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
-2021-01-24 18:36:17.917 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
-2021-01-24 18:36:21.965 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 59 ] - Started DemoApplicationTests in 4.309 seconds (JVM running for 5.557)
-2021-01-24 18:38:25.559 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 11932 (started by lk in D:\code\springboot\demo)
-2021-01-24 18:38:25.565 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
-2021-01-24 18:38:25.566 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
-2021-01-24 18:38:29.260 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 59 ] - Started DemoApplicationTests in 3.931 seconds (JVM running for 5.085)
-2021-01-24 18:39:25.257 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 6544 (started by lk in D:\code\springboot\demo)
-2021-01-24 18:39:25.261 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
-2021-01-24 18:39:25.262 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
-2021-01-24 18:39:29.064 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 59 ] - Started DemoApplicationTests in 4.045 seconds (JVM running for 5.194)
-2021-01-24 18:42:23.123 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 16616 (started by lk in D:\code\springboot\demo)
-2021-01-24 18:42:23.127 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
-2021-01-24 18:42:23.128 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
-2021-01-24 18:42:26.969 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 59 ] - Started DemoApplicationTests in 4.075 seconds (JVM running for 5.22)
-2021-01-24 18:43:34.723 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 2000 (started by lk in D:\code\springboot\demo)
-2021-01-24 18:43:34.728 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
-2021-01-24 18:43:34.729 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
-2021-01-24 18:43:38.334 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 59 ] - Started DemoApplicationTests in 3.832 seconds (JVM running for 5.037)
-2021-01-24 18:55:34.685 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 50 ] - Starting DemoApplicationTests on LAPTOP-VFGJQ5M3 with PID 10852 (started by lk in D:\code\springboot\demo)
-2021-01-24 18:55:34.694 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplicationTests : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
-2021-01-24 18:55:34.695 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 675 ] - No active profile set, falling back to default profiles: default
-2021-01-24 18:55:38.423 [ main ] - [ INFO  ] [ com.example.demo.DemoApplicationTests : 59 ] - Started DemoApplicationTests in 3.973 seconds (JVM running for 5.119)
+2021-03-07 11:32:01.512 [ main ] - [ INFO  ] [ com.example.demo.DemoApplication : 50 ] - Starting DemoApplication on LAPTOP-VFGJQ5M3 with PID 34844 (D:\code\springboot\demo\target\classes started by lk in D:\code\springboot\demo)
+2021-03-07 11:32:01.517 [ main ] - [ DEBUG ] [ com.example.demo.DemoApplication : 53 ] - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2021-03-07 11:32:01.517 [ main ] - [ INFO  ] [ com.example.demo.DemoApplication : 675 ] - No active profile set, falling back to default profiles: default
+2021-03-07 11:32:02.671 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2021-03-07 11:32:02.679 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2021-03-07 11:32:02.679 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2021-03-07 11:32:02.808 [ main ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2021-03-07 11:32:03.707 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2021-03-07 11:32:03.729 [ main ] - [ INFO  ] [ com.example.demo.DemoApplication : 59 ] - Started DemoApplication in 2.578 seconds (JVM running for 5.04)
