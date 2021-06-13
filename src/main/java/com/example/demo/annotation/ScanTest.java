@@ -1,5 +1,6 @@
 package com.example.demo.annotation;
 
+import org.reflections.Reflections;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
 import org.springframework.core.annotation.AnnotationUtils;
@@ -67,4 +68,28 @@ public class ScanTest {
         }
 
     }
+
+    public void scantest2() throws Exception{
+        String[] names = applicationContext.getBeanNamesForAnnotation(Link.class);
+        for(String name:names){
+            System.out.println("name: "+name);
+            AnnotationTest test = (AnnotationTest) applicationContext.getBean(name);
+            String cmd = AnnotationUtils.findAnnotation(test.getClass(), Link.class).cmd();
+            System.out.println(cmd);
+        }
+    }
+
+    public void scantest4() throws Exception{
+        Reflections reflections = new Reflections("com.example.demo.annotation");
+        Set<Class<?>> classesList = reflections.getTypesAnnotatedWith(Link.class);
+        for(Class clazz : classesList) {
+            Annotation[] annotationsByType = clazz.getAnnotationsByType(Link.class);
+            System.out.println(annotationsByType.length);
+            for (Annotation a:annotationsByType) {
+                Link c = (Link)a;
+                System.out.println(c.cmd());
+            }
+        }
+    }
+
 }

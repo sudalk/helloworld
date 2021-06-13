@@ -62,6 +62,11 @@ public class DemoApplicationTests {
     }
 
     @Test
+    public void scantest2() throws Exception {
+        scanTest.scantest4();
+    }
+
+    @Test
     public void autoConfig(){
         System.out.println(studentConfig.getId()+"----"+studentConfig.getName());
         System.out.println(studentTest.getId());
